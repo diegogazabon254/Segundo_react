@@ -4,6 +4,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Navbar from './components/Navbar';
 import RegistroAprendiz from './components/RegistroAprendiz';
+import PresentacionAprendiz from './components/PresentacionAprendiz';
 function App() {
  
   function saludar() {
@@ -65,6 +66,8 @@ return (
       
       
       <RegistroAprendiz/>
+
+      <PresentacionAprendiz/>
 
     </main>
     <h2>Otros cursos</h2>    
