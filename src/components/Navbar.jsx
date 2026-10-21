@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-logo">
-        <a href="#">MiApp</a>
+        <a href="#">SENA APP</a>
       </div>
       <ul className="navbar-links">
         <li><a href="#home">Inicio</a></li>
