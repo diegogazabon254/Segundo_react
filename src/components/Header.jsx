@@ -7,7 +7,7 @@ function Header() {
         <h1 className="Title">Centro Nacional Colombo Alemán</h1>
         <p className="Par">Formación para el futuro</p>
         
-      </div style= {{display:'flex':}}>
+      </div>
       <img src={SENA_LOGO} alt="Logo SENA" className="Header-logo" />
       </header>
       
